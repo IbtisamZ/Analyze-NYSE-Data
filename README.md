@@ -9,4 +9,4 @@ In this project, i analyzed real-life data from the New York Stock Exchange, thr
 
 ### Dataset used
 
-It's a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
+It's a large dataset provided by [Kaggle](https://www.kaggle.com/dgawlik/nyse) that contains historical financial data from S&P 500 companies. 
